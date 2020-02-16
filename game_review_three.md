@@ -41,15 +41,15 @@ be able to see what they are approaching until it comes into view of their scree
 person view the player must be careful and remember where they are going, but the player may have a map but they only have a map of the 
 Sinnoh region and not a map of the area the player will be. Even so, another fun feature is that everything that you may want to find is
 organized neatly in your menu option, including where you store your team of pokemon and when you fight with your pokemon the battle choices
-are easy to find and use when you want to attack, switch pokemon, use a item on your pokemon or run away from a wild pokemon.
+are easy to find and use when you want to attack, switch pokemon, use a item on your pokemon or run away from a wild pokemon. Other than
+that it is important to continue on the path you are given in order to continue the game and talk to other people so that you may obtain
+more and new items and information later in the game. In conclusion, Pokemon Diamond is one of the top down games that allows people to
+focus on the many wonders and adventures of becoming a Pokemon Trainer while going against great challenges and unkown experiences that may unlock legendary myths.
+
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+A few facts about Pokemon Diamond is that this is one of the older games from the pokemon series, but even so it has not lost its charm in playing content; while the more that a few problems arise in the game just like the old contents of the Pokemon game series that decreases the mechanics of the game. Like first of all, in the game the player must make sure that they have a Pokemon that can learn specific TM moves that correspond with that Pokemons type, because these specific moves are used in order to advance the game and sadly those moves become of your pokemon's battle roster forever so the player can never switch out the move. The second reason is that since its an old game the graphic quality of the game is just like any other pixelated game back in the early 2000's so not many people in the year 2020 that just started getting into Pokemon are looking to buy a copy. 
 
 ## Additional Information
 
-Links to other reviews or other information you used in this review.
+https://www.pokemon.com/us/pokemon-video-games/pokemon-diamond-version-and-pokemon-pearl-version/
