@@ -57,12 +57,9 @@ usually play, but in a stadium based side scrolling platform.
 
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+For this game, it has a lot of features including changing the game format on what items can respawn on the battle field or how to change the time limit of the round in a multiplayer fight, but sadly not a lot of players would know about where the settings to change it are, not to mention the need to change it. That is because the default setting of a brawl is already fine with a group or pair to fight, since the battle will include random items, a smash ball orb, and the players continue to fight until the time limit runs out and the one with the least amount of knockouts wins. Due to the default setting not many players change it and when it comes to changing the settings, there is no tutorial that guides new players to the settings so that they can change the brawl round. Even so, there is a feature that this game has that a lot of people will judge about; in the character roster when players start the game for the first time, all the characters are not in the roster because this allows gamers to continue playing the game in order to collect the characters that can be released in the game. This feature is both fun and interesting due to the fact that in order to collect the characters the players must fight each other for random number of matches and then a random character comes a long where the player will have to fight against the unkown character and if they win, they can add the character to the roster.
 
 ## Additional Information
 
-Links to other reviews or other information you used in this review.
+https://www.smashbros.com/wii/en_us/index.html
+https://www.ign.com/articles/2008/03/04/super-smash-bros-brawl-review
